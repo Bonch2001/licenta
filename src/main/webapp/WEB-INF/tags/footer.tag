@@ -12,4 +12,10 @@
 <spring:url value="/webjars/bootstrap/3.3.6/js/bootstrap.min.js" var="bootstrapJs"/>
 <script src="${bootstrapJs}"></script>
 
-
+<br/>
+<br/>
+<div class="container">
+    <div class="row">
+        <div class="col-12 text-center">&#169 2024 Alin Bonciu</div>
+    </div>
+</div>
